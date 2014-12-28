@@ -1,0 +1,7 @@
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\ArcServerStatus.dll
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\ArcServerStatus.pdb
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\RestSharp.dll
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\RestSharp.pdb
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\RestSharp.xml
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\obj\Release\ArcServerStatus.dll
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\obj\Release\ArcServerStatus.pdb

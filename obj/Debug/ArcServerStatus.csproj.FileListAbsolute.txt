@@ -1,0 +1,8 @@
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\obj\Debug\ArcServerStatus.csprojResolveAssemblyReference.cache
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\ArcServerStatus.dll
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\ArcServerStatus.pdb
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\obj\Debug\ArcServerStatus.dll
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\obj\Debug\ArcServerStatus.pdb
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\RestSharp.dll
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\RestSharp.pdb
+C:\Sourcecode\web\ArcServerStatus\ArcServerStatus\ArcServerStatus\bin\RestSharp.xml
